@@ -1,0 +1,15 @@
+---
+title: "Meine erste Website"
+description: |
+  Hallo und Herzlich Willkommen!
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+```
+
