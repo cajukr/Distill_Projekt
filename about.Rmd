@@ -8,4 +8,4 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Digitale Medienkommunikation
+Visualisierungen aus dem Seminar Digitale Medienkommunikation der RWTH Aachen

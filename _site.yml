@@ -12,11 +12,11 @@ navbar:
       href: index.html
     - text: "Über"
       href: about.html
-    - text: "Daten"
       menu: 
       - text: "Themen"
         href: analyse.html
       - text: "Visualisierungen"
+        href: visualisierungen.html
     - text: "Kontakt"
     - icon: fab fa-github
       
