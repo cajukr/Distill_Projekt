@@ -5,7 +5,7 @@ description: |
 output_dir: "_site"
 navbar:
   logo: 
-    image: 
+    image: images/Logo.png
   search: TRUE 
   right:
     - text: "Start"

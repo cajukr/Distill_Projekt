@@ -1,0 +1,29 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "Über diese Seite",
+      "description": "Hier finden Sie alle Informationen dazu, was Sie auf der Seite erwartet.",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-06-15T16:25:47+02:00"
+    },
+    {
+      "path": "analyse.html",
+      "title": "Themen",
+      "description": "Datenanalysen und Visualisierungen. Hier finden Sie eine Übersicht über die Themen.",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-06-15T16:25:48+02:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Meine erste Website",
+      "description": "Hallo und Herzlich Willkommen!\n",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-06-15T16:25:48+02:00"
+    }
+  ],
+  "collections": []
+}
