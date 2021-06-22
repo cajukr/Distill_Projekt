@@ -1,5 +1,6 @@
 name: "Distill_Projekt"
 title: "Meine erste Website"
+favicon: images/Logo.png
 description: |
    Website
 output_dir: "_site"
@@ -14,10 +15,12 @@ navbar:
       href: about.html
       menu: 
       - text: "Themen"
-        href: analyse.html
+        href: themen.html
       - text: "Visualisierungen"
         href: visualisierungen.html
-    - text: "Kontakt"
     - icon: fab fa-github
+
       
 output: distill::distill_article
+    
+

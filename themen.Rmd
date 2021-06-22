@@ -14,3 +14,11 @@ library(dplyr)
 
 ```
 
+# Seminar Informationsvisualisierung
+
+### Wahlergebnisse der Bundestagswahl 2017 nach Bundesland
+***
+
+# Seminar Usability, User Diversity, TA
+
+### Facebook und Verschwörungsmentalität

@@ -1,11 +1,27 @@
 ---
 title: "Visualisierungen"
 description: |
-  Im Folgenden finden Sie die Visualisierungen.
+  Im Folgenden finden Sie verschiedenste Visualisierungen.
 ---
 
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+## Seminar Informationsvisualisierung 
+
+### Wahlergebnisse Bundestagswahl 2017 nach Bundesland
+
+![Ergebnisse Bayern](images/ergebnis_Bayern.png)
+
+![Ergebnisse Berlin](images/ergebnis_Berlin.png)
+
+
+
+## Seminar Usability, User Diversity und Technikakzeptanz
+
+Studie zum Zusammenhang von Ausprägung der Verschwörungsmentalität und einer passiveren oder aktiveren Nutzung der Interaktionsmöglichkeiten von Facebook
+
+### Verschwörungsmentalität auf Facebook
+![Korrelation Facebook Verschwörungsmentalität mit unterschiedlichen Interaktionsmöglichkeiten](Korrelation.png)
 

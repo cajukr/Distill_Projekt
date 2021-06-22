@@ -5,32 +5,32 @@
       "title": "Über diese Seite",
       "description": "Hier finden Sie alle Informationen dazu, was Sie auf der Seite erwartet.",
       "author": [],
-      "contents": "\nVisualisierungen aus dem Seminar Digitale Medienkommunikation der RWTH Aachen\n\n\n\n",
-      "last_modified": "2021-06-15T19:01:16+02:00"
-    },
-    {
-      "path": "analyse.html",
-      "title": "Themen",
-      "description": "Datenanalysen und Visualisierungen. Hier finden Sie eine Übersicht über die Themen.",
-      "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2021-06-15T19:01:18+02:00"
+      "contents": "\nWas finde ich auf dieser Seite?\nVisualisierungen aus dem Studiengang Digitale Medienkommunikation der RWTH Aachen\n\n\n\n",
+      "last_modified": "2021-06-22T18:54:20+02:00"
     },
     {
       "path": "index.html",
       "title": "Meine erste Website",
       "description": "Hallo und Herzlich Willkommen!\n",
       "author": [],
-      "contents": "\nDies ist meine erste Distill Website. Die Seite befindet sich noch in Bearbeitung…\n\n\n\n",
-      "last_modified": "2021-06-15T19:01:18+02:00"
+      "contents": "\nDie Seite befindet sich noch in Bearbeitung…\n\n\n\n",
+      "last_modified": "2021-06-22T18:54:20+02:00"
+    },
+    {
+      "path": "themen.html",
+      "title": "Themen",
+      "description": "Datenanalysen und Visualisierungen. Hier finden Sie eine Übersicht über die Themen.",
+      "author": [],
+      "contents": "\nSeminar Informationsvisualisierung\nWahlergebnisse der Bundestagswahl 2017 nach Bundesland\nSeminar Usability, User Diversity, TA\nFacebook und Verschwörungsmentalität\n\n\n\n",
+      "last_modified": "2021-06-22T18:54:22+02:00"
     },
     {
       "path": "visualisierungen.html",
       "title": "Visualisierungen",
-      "description": "Im Folgenden finden Sie die Visualisierungen.",
+      "description": "Im Folgenden finden Sie verschiedenste Visualisierungen.",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2021-06-15T19:01:19+02:00"
+      "contents": "\nSeminar Informationsvisualisierung\nWahlergebnisse Bundestagswahl 2017 nach Bundesland\nErgebnisse BayernErgebnisse BerlinSeminar Usability, User Diversity und Technikakzeptanz\nStudie zum Zusammenhang von Ausprägung der Verschwörungsmentalität und einer passiveren oder aktiveren Nutzung der Interaktionsmöglichkeiten von Facebook\nVerschwörungsmentalität auf Facebook\nKorrelation Facebook Verschwörungsmentalität mit unterschiedlichen Interaktionsmöglichkeiten\n\n\n",
+      "last_modified": "2021-06-22T18:54:22+02:00"
     }
   ],
   "collections": []

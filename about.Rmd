@@ -7,5 +7,10 @@ description: |
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+Was finde ich auf dieser Seite?
 
-Visualisierungen aus dem Seminar Digitale Medienkommunikation der RWTH Aachen
+Visualisierungen aus dem Studiengang Digitale Medienkommunikation der RWTH Aachen
+
+
+
+
